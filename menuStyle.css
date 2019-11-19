@@ -1,0 +1,21 @@
+body {
+    background: rgb(68, 68, 68);
+    color: white;
+    font-family: 'VT323', monospace;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 12rem auto;
+}
+
+li {
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 4rem;
+
+    background-color: rgb(102, 102, 102);
+}
